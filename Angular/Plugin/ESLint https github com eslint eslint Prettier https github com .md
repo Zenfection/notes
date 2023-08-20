@@ -1,4 +1,4 @@
-# ESLint & Prettier
+# [ESLint](https://github.com/eslint/eslint) & [Prettier](https://github.com/prettier/prettier)
 ## 1. Install Angular ESLint
 ```sh
 ng add @angular-eslint/schematics
@@ -121,7 +121,8 @@ node_modules
 ```
 
 ### VSCode extensions:
-```
+
+```txt
 dbaeumer.vscode-eslint
 esbenp.prettier-vscode
 ```
